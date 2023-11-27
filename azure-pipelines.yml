@@ -18,7 +18,7 @@ variables:
   resourceGroupName: 'Flatris-LAB'
  
   # Environment name
-  environmentName: 'YourLinuxApp'
+  environmentName: 'Flatris-LAB'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
